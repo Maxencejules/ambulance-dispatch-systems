@@ -1,0 +1,1000 @@
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=1,Call_Type=Stroke,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=3,Call_Type=House Fire,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=6,Call_Type=Childbirth,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=7,Call_Type=Seizure,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=8,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=12,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=15,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=16,Call_Type=Severe Bleeding,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=17,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=21,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=22,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=23,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=24,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=25,Call_Type=Severe Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=26,Call_Type=Severe Car Accident,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=31,Call_Type=Childbirth,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=32,Call_Type=Asthma Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=34,Call_Type=Childbirth,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=35,Call_Type=Drug Overdose,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=36,Call_Type=Drug Overdose,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=37,Call_Type=House Fire,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=39,Call_Type=Asthma Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=40,Call_Type=Head Injury,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=41,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=42,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=43,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=44,Call_Type=Seizure,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=45,Call_Type=Seizure,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=46,Call_Type=Childbirth,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=48,Call_Type=Seizure,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=49,Call_Type=Severe Bleeding,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=52,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=53,Call_Type=Severe Bleeding,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=54,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=56,Call_Type=Head Injury,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=57,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=61,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=62,Call_Type=Severe Bleeding,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=63,Call_Type=Drug Overdose,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=64,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=65,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=71,Call_Type=Heart Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=73,Call_Type=Heart Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=74,Call_Type=Heart Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=76,Call_Type=Head Injury,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=79,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=80,Call_Type=Heart Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=82,Call_Type=Severe Car Accident,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=83,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=84,Call_Type=Seizure,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=85,Call_Type=Drug Overdose,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=86,Call_Type=Severe Bleeding,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=87,Call_Type=Drug Overdose,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=90,Call_Type=Asthma Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=93,Call_Type=Heart Attack,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=95,Call_Type=House Fire,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=97,Call_Type=Stroke,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=98,Call_Type=Severe Car Accident,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=2,Call_Type=Minor Car Accident,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=5,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=18,Call_Type=Fainting,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=28,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=29,Call_Type=Minor Car Accident,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=30,Call_Type=Allergic Reaction,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=33,Call_Type=Animal Bite,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=58,Call_Type=Fainting,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=59,Call_Type=Fainting,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=60,Call_Type=Minor Car Accident,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=68,Call_Type=Allergic Reaction,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=72,Call_Type=Broken Leg,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=75,Call_Type=Animal Bite,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=4,Call_Type=Minor Burn,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=9,Call_Type=Food Poisoning,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=10,Call_Type=Panic Attack,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=11,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=13,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=14,Call_Type=High Fever,Call_Location=Address 789 Pine St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D>Address 789 Pine St,Time_to_Call_Location=6.34
+Call_ID=19,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=20,Call_Type=Panic Attack,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=27,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=38,Call_Type=Minor Burn,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=47,Call_Type=Dehydration,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=50,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=51,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=55,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=66,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=67,Call_Type=Panic Attack,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=69,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=70,Call_Type=Panic Attack,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=77,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=78,Call_Type=High Fever,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=81,Call_Type=Panic Attack,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=88,Call_Type=Dehydration,Call_Location=Intersection A,Selected_Ambulance=Ambulance 1,Route_to_Call_Location=Intersection A,Time_to_Call_Location=0.00
+Call_ID=89,Call_Type=Dehydration,Call_Location=Intersection C,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C,Time_to_Call_Location=0.00
+Call_ID=91,Call_Type=Food Poisoning,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=92,Call_Type=Minor Burn,Call_Location=Intersection D,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Intersection D,Time_to_Call_Location=1.72
+Call_ID=94,Call_Type=Dehydration,Call_Location=Address 456 Oak St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St>Address 456 Oak St,Time_to_Call_Location=6.88
+Call_ID=96,Call_Type=Minor Burn,Call_Location=Intersection B,Selected_Ambulance=Ambulance 2,Route_to_Call_Location=Intersection C>Intersection B,Time_to_Call_Location=4.70
+Call_ID=99,Call_Type=High Fever,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
+Call_ID=100,Call_Type=Minor Burn,Call_Location=Address 123 Main St,Selected_Ambulance=Ambulance 3,Route_to_Call_Location=Address 123 Main St,Time_to_Call_Location=0.00
