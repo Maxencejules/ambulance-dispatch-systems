@@ -1,0 +1,56 @@
+{
+  "environment": {
+    "clock": "QueryPerformanceCounter()",
+    "clock_resolution_seconds": 1e-07,
+    "cpu": "Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz",
+    "logical_processors": 8,
+    "platform": "Windows-11-10.0.26100-SP0",
+    "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]"
+  },
+  "input_sha256_utf8_lf": {
+    "ambulance.csv": "15708c0d31a3a0147dcffd2f2ab1cbf3e757b2458aae9c90b82df6bfbdc46d8d",
+    "call_priority.csv": "85f852a74a2cc7a10505fc338cf7f1194eeaee94619817b85787eec3daefc9be",
+    "calls.csv": "c6469c6066d865cafc371b17702bfef3083b97e20dcd26390d75d5e89d06eb2c",
+    "location_network.csv": "517f9f078b7bcb5f5e082634700412de94a2dd155afbe438296f806f113c58e7"
+  },
+  "queries": 100,
+  "repeats": 3,
+  "seed": 2026,
+  "side": 8,
+  "summary": {
+    "bundled": {
+      "astar": {
+        "max_seconds": 0.021666300017386675,
+        "median_seconds": 0.014051900012418628,
+        "min_seconds": 0.008735000039450824,
+        "q1_seconds": 0.012153099989518523,
+        "q3_seconds": 0.015901200007647276
+      },
+      "dijkstra": {
+        "max_seconds": 0.02109950000885874,
+        "median_seconds": 0.0137255999725312,
+        "min_seconds": 0.010385900037363172,
+        "q1_seconds": 0.011875999975018203,
+        "q3_seconds": 0.017982700024731457
+      }
+    },
+    "grid": {
+      "astar": {
+        "max_seconds": 0.07735809998121113,
+        "median_seconds": 0.04791169997770339,
+        "min_seconds": 0.0435235999757424,
+        "q1_seconds": 0.044207500061020255,
+        "q3_seconds": 0.06766330008395016
+      },
+      "dijkstra": {
+        "max_seconds": 0.08997520001139492,
+        "median_seconds": 0.047348199994303286,
+        "min_seconds": 0.04100739990826696,
+        "q1_seconds": 0.043650400009937584,
+        "q3_seconds": 0.059293000027537346
+      }
+    }
+  },
+  "timing_scope": "Fresh dispatcher, heuristic setup/goal validation, all route queries; excludes graph/input/oracle generation, verification, I/O.",
+  "trials": 9
+}

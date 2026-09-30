@@ -1,0 +1,29 @@
+name: Verified offline routing
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Independent routing and dispatch regressions
+        run: python -m unittest discover -s tests -v
+      - name: Recorded offline demo
+        run: python demo.py --seed 2026 --output artifacts/demo.json
+      - name: Bounded verified benchmark
+        run: python performance_tester.py --seed 2026 --trials 3 --queries 12 --repeats 1 --side 5 --output artifacts/benchmark
+      - uses: actions/upload-artifact@v4
+        with:
+          name: routing-proof-${{ matrix.os }}
+          path: artifacts/

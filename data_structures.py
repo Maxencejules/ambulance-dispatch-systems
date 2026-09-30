@@ -1,15 +1,33 @@
-"""
-Data structures for ambulance dispatch system
-"""
+"""Small educational dispatch model; travel-time units are minutes."""
 from datetime import datetime
 import heapq
+import math
+
+
+def location_name(value):
+    if not isinstance(value, str) or not value.strip():
+        raise ValueError("Location must be a nonempty string")
+    return value
+
+
+def nonnegative_number(value, label):
+    try:
+        number = float(value)
+    except (TypeError, ValueError, OverflowError) as exc:
+        raise ValueError(f"{label} must be a finite nonnegative number") from exc
+    if isinstance(value, bool) or not math.isfinite(number) or number < 0:
+        raise ValueError(f"{label} must be a finite nonnegative number")
+    return number
 
 
 class EmergencyCall:
-    """Represents an emergency call"""
     def __init__(self, call_id, location, call_type, priority):
+        if not isinstance(priority, int) or isinstance(priority, bool) or priority < 0:
+            raise ValueError("Priority must be a nonnegative integer")
+        if not isinstance(call_type, str) or not call_type.strip():
+            raise ValueError("Call type must be nonempty")
         self.call_id = call_id
-        self.location = location
+        self.location = location_name(location)
         self.call_type = call_type
         self.priority = priority
         self.timestamp = datetime.now()
@@ -19,20 +37,17 @@ class EmergencyCall:
 
 
 class Ambulance:
-    """Represents an ambulance unit"""
     def __init__(self, ambulance_id, staging_location):
         self.id = ambulance_id
-        self.staging_location = staging_location
-        self.current_location = staging_location
+        self.staging_location = location_name(staging_location)
+        self.current_location = self.staging_location
         self.is_available = True
 
     def dispatch(self, location):
-        """Dispatch ambulance to location"""
-        self.current_location = location
+        self.current_location = location_name(location)
         self.is_available = False
 
     def reset(self):
-        """Reset ambulance to staging location"""
         self.current_location = self.staging_location
         self.is_available = True
 
@@ -41,60 +56,60 @@ class Ambulance:
 
 
 class CallPriorityQueue:
-    """Priority queue for emergency calls"""
     def __init__(self):
         self.queue = []
-        self.counter = 0  # For FIFO within same priority
+        self.counter = 0
 
     def add_call(self, call):
-        """Add call to priority queue"""
-        # Use (priority, counter, call) to ensure FIFO within same priority
         heapq.heappush(self.queue, (call.priority, self.counter, call))
         self.counter += 1
 
     def get_next_call(self):
-        """Get highest priority call"""
-        if self.queue:
-            _, _, call = heapq.heappop(self.queue)
-            return call
-        return None
+        return heapq.heappop(self.queue)[2] if self.queue else None
 
     def is_empty(self):
-        """Check if queue is empty"""
-        return len(self.queue) == 0
+        return not self.queue
 
     def size(self):
-        """Get queue size"""
         return len(self.queue)
 
 
 class RoadNetwork:
-    """Graph representation of road network"""
+    """Undirected multigraph. Mutate only through add_node/add_edge, between queries."""
+
     def __init__(self):
-        self.graph = {}  # Adjacency list: {node: [(neighbor, time), ...]}
+        self.graph = {}
         self.nodes = set()
+        self.revision = 0
+
+    def add_node(self, node):
+        location_name(node)
+        if node not in self.nodes:
+            self.nodes.add(node)
+            self.graph[node] = []
+            self.revision += 1
 
     def add_edge(self, start, end, distance, travel_time, traffic_delay):
-        """Add bidirectional edge to graph"""
-        total_time = travel_time + traffic_delay
-
-        # Initialize nodes if not exist
-        if start not in self.graph:
-            self.graph[start] = []
-        if end not in self.graph:
-            self.graph[end] = []
-
-        # Add bidirectional edges
-        self.graph[start].append((end, total_time))
-        self.graph[end].append((start, total_time))
-
-        # Track all nodes
-        self.nodes.add(start)
-        self.nodes.add(end)
+        location_name(start)
+        location_name(end)
+        nonnegative_number(distance, "Distance")
+        travel = nonnegative_number(travel_time, "Travel time")
+        delay = nonnegative_number(traffic_delay, "Traffic delay")
+        cost = travel + delay
+        if not math.isfinite(cost):
+            raise ValueError("Combined travel time overflow")
+        self.add_node(start)
+        self.add_node(end)
+        self.graph[start].append((end, cost))
+        self.graph[end].append((start, cost))
+        self.revision += 1
 
     def get_neighbors(self, node):
-        """Get neighbors of a node"""
-        return self.graph.get(node, [])
+        return tuple(self.graph.get(node, ()))
+
+    @property
+    def edge_count(self):
+        return sum(map(len, self.graph.values())) // 2
 
     def __repr__(self):
-        return f"RoadNetwork with {len(self.nodes)} nodes and {sum(len(n) for n in self.graph.values())//2} edges"
+        return f"RoadNetwork with {len(self.nodes)} nodes and {self.edge_count} input edges"
