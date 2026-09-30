@@ -1,1 +1,1 @@
-pandas==2.0.3
+# Runtime, tests, benchmark, and demo use Python's standard library only.

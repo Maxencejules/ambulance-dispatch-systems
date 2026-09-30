@@ -1,213 +1,103 @@
 # Ambulance Dispatch Route Optimizer
 
-A comparative analysis of pathfinding algorithms for emergency vehicle dispatch systems, implementing and benchmarking Dijkstra's algorithm versus A* search for optimal ambulance routing.
+An offline educational comparison of Dijkstra and A* for static shortest paths and priority-ordered ambulance selection. Both searches now return independently verified minimum-cost routes. The project models a dispatch decision; it does not model a working emergency service.
 
-## 📊 Key Findings
+## Run and reproduce
 
-- **Dijkstra outperformed A* by 16%** on small road networks (< 50 nodes)
-- Both algorithms achieve sub-12ms routing times for 100 emergency calls
-- Heuristic overhead exceeded search space reduction benefits in dense, small networks
+Use Python 3.12 or newer. Runtime, demo, benchmark and tests use only the standard library; no package installation is required. From the repository root:
 
-## 🚑 Project Overview
-
-This system simulates emergency ambulance dispatch operations, processing prioritized emergency calls and computing optimal routes from staging locations to incident sites. The project compares two fundamental shortest-path algorithms to determine which performs better for real-world emergency response scenarios.
-
-### Features
-
-- **Priority-based dispatch queue** using min-heap for call triage
-- **Real-time route calculation** with traffic delay considerations
-- **Comparative algorithm analysis** with performance benchmarking
-- **Comprehensive dispatch logging** with route details and response times
-- **Graph-based road network** representation with bidirectional edges
-
-## 🛠️ Technology Stack
-
-- **Language:** Python 3.x
-- **Data Processing:** Pandas
-- **Algorithms:** Dijkstra's Algorithm, A* Search
-- **Data Structures:** Priority Queue (heapq), Graph (adjacency list)
-
-## 📁 Project Structure
-
-```
-ambulance-dispatch-optimizer/
-├── README.md
-├── requirements.txt
-├── config.py                    # Configuration and file paths
-├── data_structures.py           # Core data structures
-├── data_loader.py              # CSV data ingestion
-├── dijkstra_dispatcher.py     # Dijkstra implementation
-├── astar_dispatcher.py        # A* implementation  
-├── performance_tester.py      # Benchmarking suite
-└── data/
-    ├── ambulance.csv          # Ambulance staging locations
-    ├── calls.csv              # Emergency call data
-    ├── call_priority.csv      # Call type priorities
-    └── location_network.csv   # Road network graph
+```sh
+python -m unittest discover -s tests -v
+python demo.py --seed 2026 --output artifacts/demo.json
+python performance_tester.py --seed 2026 --trials 9 --queries 100 --repeats 3 --side 8 --output artifacts/benchmark
 ```
 
-## 🚀 Getting Started
+The demo prints verified dispatch counts and writes every selected vehicle, route, cost and priority order. It checks 100 bundled requests and 12 generated requests per algorithm against an independent edge-list Bellman-Ford oracle, including minimum vehicle selection. The generated demo has 36 nodes and 60 undirected edges. [Recorded demo](examples/demo.json) is deterministic for a fixed seed and unchanged input files; timestamps and timings are deliberately excluded. Tests also compare its bytes under different Python hash seeds and from a different working directory.
 
-### Prerequisites
+For the original console workflow:
 
-```bash
-python --version  # Python 3.7 or higher
-pip --version     # pip package manager
-```
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Maxencejules/ambulance-dispatch-system.git
-cd ambulance-dispatch-optimizer
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-### Running the Simulation
-
-**Run Dijkstra's Algorithm:**
-```bash
+```sh
 python dijkstra_dispatcher.py
-```
-
-**Run A* Algorithm:**
-```bash
 python astar_dispatcher.py
 ```
 
-**Run Performance Comparison:**
-```bash
-python performance_tester.py
+These load inputs relative to the source directory and write an explicit CSV log to `artifacts/dispatch.csv`. A programmatic dispatcher can use `verbose=False, log_file=None` to disable console/log output. Log errors propagate instead of silently changing destinations. Demo and benchmark output paths are relative to the calling directory. Generated files under `artifacts/` are ignored.
+
+[CI](.github/workflows/ci.yml) runs the tests, demo and a small seeded benchmark on Ubuntu and Windows with Python 3.12. It verifies correctness, uploads outputs and sets no timing threshold.
+
+## Model and input contracts
+
+The unchanged bundled fixtures contain seven locations, three ambulances, 100 requests and 20 call types. `Data/location_network.csv` has 42 rows, including both orientations of all 21 distinct location pairs. Each row creates a bidirectional edge. Reversed rows often have different weights, so they remain parallel alternatives: 42 undirected input edges and 84 adjacency entries. This preserves the existing undirected multigraph semantics; the two orientations do not represent one-way roads.
+
+| Input | Required CSV columns |
+| --- | --- |
+| `Data/location_network.csv` | `Start,End,Distance,Travel Time,Traffic Delay` |
+| `Data/ambulance.csv` | `Ambulance Number,Staging Location` |
+| `Data/calls.csv` | `Call ID,Location,Call Type` |
+| `Data/call_priority.csv` | `Call Type,Priority` |
+
+Route cost is `Travel Time + Traffic Delay`, interpreted as modeled minutes. `Distance` is validated but does not influence route selection; its physical unit was not recorded. Costs must be finite, nonnegative numbers. Zero-cost edges and parallel edges are allowed. Malformed rows, missing/duplicate headers, duplicate identifiers, unknown call types or locations, negative/nonfinite weights and arithmetic overflow are rejected. Extra CSV columns are allowed. The provenance, collection method and real-world validity of these fixtures were not recorded; treat them as educational examples.
+
+Lower priority numbers are processed first; equal priorities retain input order. The available ambulance with the least route cost is selected, with fleet order breaking equal-cost ties. After each recorded dispatch, it immediately returns to its staging location and becomes available again. Requests are independent decisions rather than concurrent incidents. The model has static traffic, no service duration, arrivals, capacity constraints, hospital selection or live geographic data.
+
+`route(start, end)` returns `(path, cost)`. A known node routed to itself returns `([node], 0.0)`; an unreachable known destination returns `(None, math.inf)`. Unknown endpoints raise `ValueError`, including unknown self-routes. Unrepresentable route costs or search priorities raise `OverflowError` rather than being labeled unreachable. Costs use Python floats, not exact decimal arithmetic; verification compares within `1e-10` absolute / `1e-12` relative tolerance.
+
+## Search correctness and heuristic assumptions
+
+`routing.py` contains the common heap search. Dijkstra supplies `h=0`; A* supplies a consistent goal-specific lower bound. Every strictly improved path cost pushes a fresh priority, and superseded heap entries are skipped. The shared engine avoids duplicate dispatch/search bookkeeping; comparison between the two algorithms is not itself a correctness oracle.
+
+For coordinates `p`, let `d(u,v)` be Manhattan distance and choose:
+
+```text
+alpha = min(cost(u,v) / d(u,v)) over edges with d(u,v) > 0
+h(u,goal) = alpha * d(u,goal)
 ```
 
-## 📈 Performance Results
+If no such edges exist, use `alpha=0`. For every edge, `alpha*d(u,v) <= cost(u,v)`. The triangle inequality gives `h(u) <= cost(u,v) + h(v)`; with `h(goal)=0`, this is a consistent and admissible lower bound. Coincident-coordinate edges satisfy the same inequality because their endpoint estimates are equal. A zero-cost edge with positive span forces `alpha=0`.
 
-### Benchmark Summary (100 Emergency Calls, 10 Runs Each)
+The implementation rounds a positive scale down, bounds coordinate extent, and checks the actual floating-point consistency inequalities for every adjacency entry for each goal. Any unsafe computed bound falls back to `h=0`. Supplied coordinates must cover all nodes and have finite components and finite overall span. These safeguards matter because a mathematical proof over real numbers does not remove floating-point rounding hazards.
 
-| Algorithm | Average Time | Min Time | Max Time | Variance |
-|-----------|-------------|----------|----------|----------|
-| **Dijkstra** | 0.007652s | 0.004628s | 0.009766s | 53% |
-| **A*** | 0.008879s | 0.006393s | 0.011228s | 43% |
+The bundled network has no geographic coordinates. Its default coordinates are a deterministic grid assigned to sorted location names; they give a valid but weak artificial bound, not geographic distance. Generated networks use their actual synthetic grid coordinates, cardinal edges and seeded quarter-minute costs. Neither example is a real road network.
 
-**Performance Difference:** Dijkstra performed 16% faster (1.227ms improvement)
+Use `RoadNetwork.add_node` and `add_edge` for all graph mutations between queries. Their revision counter invalidates cached coordinates and goal bounds; a newly added node needs a supplied coordinate if a custom map was used. Direct edits to public `graph`, `nodes`, cached coordinates or the supplied coordinate values are unsupported. Do not mutate a network during a query. Goal bounds are cached within a dispatcher, requiring up to `O(V^2)` additional storage across all distinct goals; their construction and edge consistency checks add preprocessing cost.
 
-### Why Dijkstra Outperformed A*
+### Independent evidence
 
-1. **Network Scale:** With only 42 edges and ~20 nodes, overhead costs dominate
-2. **High Connectivity:** Average degree of 4.2 means most destinations are 3-4 hops away
-3. **Heuristic Overhead:** A* requires coordinate lookups and distance calculations (~0.012ms/node)
+The 18 unittest methods include these substantive checks:
 
-## 🔬 Algorithm Implementations
+- Manual counterexamples where the old A* returned cost 5 instead of 3 after an improved open priority, and cost 5 instead of 2 with an overestimating heuristic.
+- Exhaustive enumeration of simple paths for every ordered pair in five seeded six-node graphs; synchronous Bellman-Ford over original edge lists for every pair in eight seeded nine-node graphs and all 49 bundled pairs.
+- Returned path endpoints, simplicity, existing edges, summed cost and agreement with the independent optimum; parallel/reversed rows, zero-cost cycles, self-loops, isolated nodes and unreachable queries.
+- Native-float heuristic consistency, invalid/collapsed/extreme coordinates, graph revision changes, invalid weights and cost overflow.
+- Priority/FIFO ordering, stable vehicle ties, availability/reset behavior, CSV validation, explicit log failure, deterministic demo bytes and benchmark rejection of intentionally corrupted results.
 
-### Dijkstra's Algorithm
-- **Strategy:** Greedy best-first expansion using min-heap
-- **Complexity:** O((V+E)log V) time, O(V) space
-- **Guarantee:** Optimal paths for non-negative edge weights
-- **Best for:** Small networks, consistent performance requirements
+The reference algorithms consume the original edge list rather than production adjacency or heap-search code. The benchmark validates every returned route in every measured repetition and trial outside the timed section. Generated costs are binary-exact multiples of a quarter; bundled decimal costs are compared with the stated float tolerance.
 
-### A* Algorithm
-- **Strategy:** Informed search using f(n) = g(n) + h(n) scoring
-- **Heuristic:** Conservative Manhattan distance with admissibility guarantee
-- **Complexity:** O((V+E)log V) worst case, O(b^d) average
-- **Best for:** Large sparse networks with good spatial structure
+## Recorded benchmark
 
-## 🎯 System Design
+[Raw trials](examples/benchmark/trials.csv) and [environment, settings and summary](examples/benchmark/report.json) were recorded on 2026-09-29 using Python 3.12.10 (MSC v.1943, 64-bit), Windows 11 build 26100, Intel Core i7-7700 at 3.60 GHz and eight logical processors. `perf_counter` used QueryPerformanceCounter with reported resolution 100 ns. This shared machine was not performance-isolated.
 
-### Core Components
+The seed is 2026. Each algorithm has nine measured trials per graph, following one excluded warmup batch. A trial creates a fresh dispatcher and executes the same 100 seeded source/destination queries three times. Algorithm order alternates across trials. The generated benchmark is an 8x8 grid with 64 nodes and 112 undirected edges. All 10,800 measured returned routes were verified.
 
-1. **EmergencyCall**: Tracks call details with priority levels
-2. **Ambulance**: Manages vehicle state and availability
-3. **CallPriorityQueue**: Min-heap implementation for call triage
-4. **RoadNetwork**: Graph representation using adjacency lists
+Timings include dispatcher construction, A* coordinate/scale setup, first-use goal consistency checks, cached goal bounds on subsequent queries, search and routing counters. They exclude input/graph/oracle generation, correctness verification, CSV/JSON I/O and console output. This is a mixed setup-and-repeated-query workload, not a measurement of purely cold or purely warm single-route latency. It differs from the demo's ambulance-selection workflow, which can route from several vehicles per request.
 
-### Dispatch Workflow
+| Graph | Algorithm | Median batch (ms) | Q1–Q3 (ms) | Min–max (ms) |
+| --- | --- | ---: | ---: | ---: |
+| Bundled, 7 nodes | Dijkstra | 13.726 | 11.876–17.983 | 10.386–21.100 |
+| Bundled, 7 nodes | A* | 14.052 | 12.153–15.901 | 8.735–21.666 |
+| Generated, 64 nodes | Dijkstra | 47.348 | 43.650–59.293 | 41.007–89.975 |
+| Generated, 64 nodes | A* | 47.912 | 44.208–67.663 | 43.524–77.358 |
 
-1. Load road network and ambulance staging locations
-2. Ingest emergency calls with priority mapping
-3. Process calls in priority order (lower number = higher priority)
-4. For each call:
-   - Calculate routes from all available ambulances
-   - Select ambulance with minimum response time
-   - Log dispatch details and reset ambulance
+Quartiles use Python's inclusive method. The ranges overlap substantially. These observations support no general speed ranking, node-count cutoff, emergency response latency claim or statistical significance claim. Retiming will change numbers; retain the raw trials and actual environment when comparing variants. Seeded graph/query generation and verified outcomes are reproducible, wall-clock durations are not.
 
-## 💡 Future Improvements
+The earlier “Dijkstra is 16% faster” conclusion and sub-12 ms/real-world recommendations were removed: the previous implementation had correctness defects, no recorded environment/raw trials and an incorrect estimate of the bundled node count. Those numbers are not a valid baseline for the corrected search.
 
-### Dijkstra Optimizations
-- **Bidirectional Search:** Expected 40-45% improvement
-- **Early Termination:** Stop at destination (20-30% improvement)
-- **Route Caching:** LRU cache for common routes (60-70% of calls are recurring)
+Benchmark CLI limits bound work: 3–15 trials, 1–500 queries, 1–10 repetitions, grid sides 2–15, an unsigned 32-bit seed and an additional operation-budget cap. `expansions` counts non-goal nodes expanded across the batch, and `seconds` is the full batch duration. The compatibility function `run_performance_test` instead returns bundled dispatch routing totals; do not mix that metric with the CLI batch timings.
 
-### A* Enhancements
-- **Improved Heuristic:** Landmark-based or true road distance
-- **Weighted A* (ε=1.5):** Trade optimality for speed
-- **Hierarchical Preprocessing:** Multi-scale heuristics
+Both recorded outputs include SHA-256 values for the four input files after UTF-8 BOM removal and newline normalization to LF, so Windows/Linux checkouts reconcile. They match the unchanged original Git inputs. `Data/ambulance_call_log.csv` is a legacy generated log, excluded from inputs and new evidence.
 
-### System Extensions
-- Real-time traffic updates
-- Multiple ambulance coordination
-- Dynamic ambulance repositioning
-- Visualization dashboard
+## Layout and references
 
-## 📊 Data Format
+`data_structures.py` and `data_loader.py` define validated fixtures; `dispatcher.py` owns priority/vehicle selection and logging; the two dispatcher wrappers select the heuristic; `routing.py` owns search. `experiments.py` supplies bounded seeded fixtures, the independent oracle and provenance; `demo.py` records verified dispatches; `performance_tester.py` records verified timing trials; `tests/` checks their contracts.
 
-### Input Files
-
-**ambulance.csv:**
-```csv
-Ambulance Number,Staging Location
-Ambulance 1,Hospital A
-Ambulance 2,Fire Station B
-```
-
-**calls.csv:**
-```csv
-Call ID,Location,Call Type
-1,Intersection D,Stroke
-2,Address 456 Oak St,Cardiac Arrest
-```
-
-**location_network.csv:**
-```csv
-Start,End,Distance,Travel Time,Traffic Delay
-Hospital A,Intersection B,2.5,3.2,1
-```
-
-## 🔍 Key Insights
-
-The 1.227ms performance difference between algorithms is negligible compared to real-world factors:
-- Ambulance travel time: 5-15 minutes
-- Dispatch decision time: 15-30 seconds
-- Communication overhead: 30-60 seconds
-
-**Recommendation:** Use Dijkstra for networks under 100 nodes, A* for larger networks where guided search provides measurable benefits.
-
-## 📚 References
-
-- Dijkstra, E. W. (1959). A note on two problems in connexion with graphs. *Numerische Mathematik*, 1(1), 269-271.
-- Hart, P. E., Nilsson, N. J., & Raphael, B. (1968). A formal basis for the heuristic determination of minimum cost paths. *IEEE Transactions on Systems Science and Cybernetics*, 4(2), 100-107.
-- Cormen, T. H., et al. (2009). *Introduction to Algorithms* (3rd ed.). MIT Press.
-
-## 📄 License
-
-This project is available under the MIT License. See LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## 👤 Author
-
-**Maxence Jules**
-
-- GitHub: Maxencejules(https://github.com/Maxencejules)
-- LinkedIn: Maxence Jules(https://linkedin.com/in/julesmax)
-- Email: powe840@gmail.com
-
----
-
-*This project demonstrates algorithm selection considerations for emergency response systems, showing that theoretical complexity isn't everything - implementation details and network characteristics significantly impact real-world performance.*
+Foundational references: [Dijkstra (1959), A note on two problems in connexion with graphs](https://doi.org/10.1007/BF01386390); [Hart, Nilsson and Raphael (1968), A Formal Basis for the Heuristic Determination of Minimum Cost Paths](https://doi.org/10.1109/TSSC.1968.300136). The heuristic argument above specializes their search principles to this implementation's nonnegative static graph model.
